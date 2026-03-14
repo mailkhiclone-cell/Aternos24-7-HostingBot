@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Khanh Khi",
+        "Subscribe Blvckvines!",
+        "Haaus chim to!"
       ]
     },
     "chat-log": true,
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1456159109995958395/e_Cb3ymx9PnENKZg-h6blOSb2K0fWa6H2wrRS1jC4KJL4XDJi0aaLlhZ43ZgIWGJUcaU",
     "events": {
       "connect": true,
       "disconnect": true,
